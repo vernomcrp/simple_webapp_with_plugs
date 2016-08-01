@@ -1,6 +1,6 @@
 # SimpleWebapp
 
-**TODO: Add description**
+Just a free place to build plug from simple idea
 
 ## Installation
 
