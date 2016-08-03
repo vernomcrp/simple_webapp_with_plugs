@@ -5,6 +5,7 @@ defmodule SimpleWebapp.Plug.VersionTracker do
 
   @@doc """
   Detect version then bind to request (conn)
+  Use this is pipeline chain
   """
   def call(conn, opts) do
     version = Keyword.fetch!(ops, :version)
